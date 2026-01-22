@@ -4,3 +4,5 @@ Today I continued learning about crypto and Web3 basics.
 ## What I learned
 - Crypto is built on blockchain
 - Web3 focuses on ownership
+## Thoughts
+Still early, but Web3 concepts are getting clearer.
