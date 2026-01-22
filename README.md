@@ -8,3 +8,6 @@ This repository contains my personal notes as I learn about Web3 and crypto.
 ## What I learned
 - Blockchain is decentralized
 - Crypto runs on blockchain
+## Progress
+- Day 1: Introduction to Web3
+- Day 2: Crypto and ownership concepts
