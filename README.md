@@ -14,3 +14,5 @@ This repository contains my personal notes as I learn about Web3 and crypto.
 ## Next steps
 - Learn more about Base
 - Explore onchain applications
+## Milestone
+Completed 100+ meaningful commits while learning Web3.
